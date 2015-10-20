@@ -11,6 +11,7 @@ namespace Console_App
         static void Main(string[] args)
         {
             Console.Write("hello world");
+            Console.Write("Hello my ass!");
         }
     }
 }
