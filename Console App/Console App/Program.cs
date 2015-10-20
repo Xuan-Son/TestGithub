@@ -10,8 +10,8 @@ namespace Console_App
     {
         static void Main(string[] args)
         {
-            Console.Write("hed");
-            Console.Write("He!");
+            Console.Write("Kiss my ass!");
+            Console.Write("Hehehe");
         }
     }
 }
